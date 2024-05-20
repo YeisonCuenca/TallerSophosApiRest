@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Obtener usuario","Obtener listado de usuarios","SUCCESS","2024-05-20T09:37:08.328-05:00[America/Bogota]","0.0","0.48"
+"Obtener usuario","Obtener usuario por id exitoso","SUCCESS","2024-05-20T09:37:08.807-05:00[America/Bogota]","0.0","0.49"
+"Obtener usuario","Obtener usuario por id fallido","SUCCESS","2024-05-20T09:37:09.297-05:00[America/Bogota]","0.0","0.43"

@@ -1,0 +1,12 @@
+co/com/certificacion/reqres/runners/EliminarUserRunner.java
+ co.com.certificacion.reqres.runners.EliminarUserRunner
+co/com/certificacion/reqres/runners/CustomRunner.java
+ co.com.certificacion.reqres.runners.CustomRunner
+co/com/certificacion/reqres/runners/ObtenerUserRunner.java
+ co.com.certificacion.reqres.runners.ObtenerUserRunner
+co/com/certificacion/reqres/runners/CrearUserRunner.java
+ co.com.certificacion.reqres.runners.CrearUserRunner
+co/com/certificacion/reqres/stepdefinitions/StepDefinitions.java
+ co.com.certificacion.reqres.stepdefinitions.StepDefinitions
+co/com/certificacion/reqres/stepdefinitions/Hooks.java
+ co.com.certificacion.reqres.stepdefinitions.Hooks

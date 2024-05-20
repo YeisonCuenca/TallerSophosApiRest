@@ -1,0 +1,34 @@
+co/com/certificacion/reqres/models/GenericModel.java
+ co.com.certificacion.reqres.models.GenericModel
+co/com/certificacion/reqres/questions/ObtenerCodigo.java
+ co.com.certificacion.reqres.questions.ObtenerCodigo
+co/com/certificacion/reqres/tasks/GetUser.java
+ co.com.certificacion.reqres.tasks.GetUser
+co/com/certificacion/reqres/questions/ObtenerValor.java
+ co.com.certificacion.reqres.questions.ObtenerValor
+co/com/certificacion/reqres/models/ResponseListarUsuarios.java
+ co.com.certificacion.reqres.models.ResponseListarUsuarios
+co/com/certificacion/reqres/models/Support.java
+ co.com.certificacion.reqres.models.Support
+co/com/certificacion/reqres/tasks/ListarUsuarios.java
+ co.com.certificacion.reqres.tasks.ListarUsuarios
+co/com/certificacion/reqres/tasks/EliminarUsuario.java
+ co.com.certificacion.reqres.tasks.EliminarUsuario
+co/com/certificacion/reqres/models/Data.java
+ co.com.certificacion.reqres.models.Data
+co/com/certificacion/reqres/utils/Constantes.java
+ co.com.certificacion.reqres.utils.Constantes
+co/com/certificacion/reqres/tasks/CrearUsuario.java
+ co.com.certificacion.reqres.tasks.CrearUsuario
+co/com/certificacion/reqres/models/ResponseGetUser.java
+ co.com.certificacion.reqres.models.ResponseGetUser
+co/com/certificacion/reqres/questions/GetInfo.java
+ co.com.certificacion.reqres.questions.GetInfo
+co/com/certificacion/reqres/models/DatosUsuario.java
+ co.com.certificacion.reqres.models.DatosUsuario
+co/com/certificacion/reqres/utils/ReadFile.java
+ co.com.certificacion.reqres.utils.ReadFile
+co/com/certificacion/reqres/questions/ObtenerFecha.java
+ co.com.certificacion.reqres.questions.ObtenerFecha
+co/com/certificacion/reqres/models/RespuestaCreate.java
+ co.com.certificacion.reqres.models.RespuestaCreate
